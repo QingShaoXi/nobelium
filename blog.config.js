@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '最重要的事只有一件',
+  title: '达尔文雀',
   author: '进化',
   email: '957915339@qq.com',
   link: 'https://nobelium.vercel.app',
@@ -7,8 +7,8 @@ const BLOG = {
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
-  lightBackground: '#fffefc', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#272822', // use hex value, don't forget '#'
+  lightBackground: '#FFCCCC', // use hex value, don't forget '#' e.g #fffefc
+  darkBackground: '#FFCCCC', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
   postsPerPage: 7,
