@@ -3,7 +3,7 @@ const BLOG = {
   author: '进化',
   email: '957915339@qq.com',
   link: 'https://nobelium.vercel.app',
-  description: '觉得命运不公的人，本质上是只想着命运求助的人',
+  description: '做有价值的事情，所有的善意都会涌来',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
